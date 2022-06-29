@@ -17,4 +17,4 @@ Print - Sigle line print, Multi line print
 Comment - Sigle line comment, Multi line comment
 Variables | Keywords | Identifiers - String, Integer, Float, Bool, None
 Operators - Arithmatic operator, Assignment operator, Logical operator
-
+Input - 
